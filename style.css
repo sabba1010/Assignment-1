@@ -34,3 +34,42 @@ height: 560px;
     border-radius: 24px;
 background: rgb(198, 228, 214);
 }
+
+/* .banner-imgage{
+    width: 474.03px;
+height: 400px;
+    background-image: url(assets/hero.png);
+   margin-left: 746px;
+   margin-bottom: 80px;
+} */
+
+
+.bd-2{
+color: rgba(14, 14, 14, 0.5);
+font-size: 24px;
+line-height: 29px;
+}
+
+.banner-title{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 56px;
+font-weight: 700;
+line-height: 67px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.banner-btn{
+    width: 170px;
+    height: 46px;
+    background: rgb(0, 106, 80);
+     color: aliceblue;
+}
+
+.banner-text{
+    margin-bottom: 117px;
+    margin-top: 117px;
+    margin-left: 60px;
+}
+
