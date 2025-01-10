@@ -189,4 +189,50 @@ background: rgb(255, 194, 57);
 margin-top: 20px;
 }
 
-/* Challange cotasion */
+/* DR Younus */
+.Who-yonus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Dr-younus{
+width: 1280px;
+height: 300px;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+margin-top: 32px;
+}
+
+.dr-text{
+    margin-left: 20px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
+.about{
+color: rgba(14, 14, 14, 0.8);
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+}
+.dr{
+color: rgba(14, 14, 14, 0.8);
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+}
+.dr-des{
+color: rgba(14, 14, 14, 0.6);
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+
+}
+
+.Dr-younus{
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left ;
+}
+
