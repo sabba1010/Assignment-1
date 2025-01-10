@@ -1,5 +1,8 @@
 body{
     background-color:  rgb(245, 245, 245);
+
+        font-family: 'Fira Sans';font-size: 22px;
+    
 }
 
 /* Shared style */
@@ -415,4 +418,35 @@ margin-top: 25px;
 }
 .subs-s{
     margin-top: 80px;
+}
+
+/* footer */
+
+footer{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+
+.e-tit{
+color: rgb(14, 14, 14);
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+}
+.icons{
+ 
+ margin-top: 60px;
+
+}
+
+.end{
+    align-items: center;
+    text-align: center; 
+    width: 1600px;
+    height: 226px;
 }
